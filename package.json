@@ -1,0 +1,14 @@
+{
+  "name": "handshake-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Handshake AI - Premium Experience & Freelance Project Platform for AI Engineers",
+  "scripts": {
+    "dev": "vite --host --port 5173",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
